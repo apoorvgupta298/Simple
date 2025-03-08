@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tc2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in tc2
+test(tc2)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at tc2.test(tc2.java:9)
+

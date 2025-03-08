@@ -6,7 +6,7 @@ public class tc1 {
 
 	@Test
 	public void test() {
-		System.out.println("Hello ji  kaise hai aap");
+		System.out.println("Hello ji  ");
 		}
 
 }
